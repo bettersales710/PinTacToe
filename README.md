@@ -1,2 +1,2 @@
 # PinTacToe
-PinTacToe was created for programming experience.
+PinTacToe was created for :computer programming experience using Python.
